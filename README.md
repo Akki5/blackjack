@@ -15,4 +15,4 @@ How It Works (Easiest way)
 How To Play
 =====
 
-To learn how to play Blackjack and know more about the game, visit www.wikipdeia.org/wiki/Blackjack
+To learn how to play Blackjack and know more about the game, visit www.wikipedia.org/wiki/Blackjack
